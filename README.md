@@ -94,9 +94,9 @@ Feel free to fork this repo and submit a pull request.
 ## 📧 Contact
 
 👤 Your Name
-📧 [your-email@gmail.com](mailto:your-email@gmail.com)
-🔗 GitHub: https://github.com/your-username
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+📧 bhavaniprasadkarri123@gmail.com
+🔗 GitHub: BHAVANI-PRASAD-KARRI
+🔗 LinkedIn: www.linkedin.com/in/bhavaniprasadkarri
 
 ---
 
